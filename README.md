@@ -3,6 +3,11 @@ This project provides data and a Python notebook for creating a dataset in Googl
 
 [View the Project Dashboard](https://lookerstudio.google.com/s/iV0w5dVmWlI)
 
+## Features
+- BigQuery Integration: Python notebook for data upload and preprocessing.
+- Looker Studio Visualization: Create a compact table combining data from three sources and design dashboards for comparative insights.
+- Cross-Country Analysis: Analyze tuition fees in the context of economic indicators such as Household Income, GDP per capita, Investement and Unemployment Rates.
+
 ## Data and Sources
 This project utilizes the following datasets:
 1. **Annual Tuition Fees**
