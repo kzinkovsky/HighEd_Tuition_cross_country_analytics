@@ -29,7 +29,7 @@ To create a dataset in **BigQuery** and enable API usage:
 1. Log in to Google Cloud Console: Go to [Google Cloud Console](https://console.cloud.google.com/) and create a new BigQuery project.
 2. Create a Service Account: Follow the guide to [create a service account](https://cloud.google.com/iam/docs/service-accounts-create).
 3. Generate a Service Account Key: Learn how to [create service account keys](https://cloud.google.com/iam/docs/keys-create-delete).
-4. Upload Data: Use the provided Python notebook to preprocess the data and upload it to your BigQuery project.
+4. Upload Data: Use the provided Python notebook to upload and preprocess the data to your BigQuery project. Replace the file name with your Service Account Key and the IDs of your project and dataset in the provided notebook (ex. project_id.dataset_id.annual_tuition_fees).
 
 ## Creating the Dashboard in Looker Studio
 To visualize the data in **Looker Studio**:
